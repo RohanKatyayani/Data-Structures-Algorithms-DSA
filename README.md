@@ -41,7 +41,7 @@ Every day, I solve problems across different topics — starting from **Arrays &
 ---
 
 ## 🤝 Connect With Me
-- [LinkedIn](https://www.linkedin.com/Rohankatyayani)  
+- [LinkedIn](https://www.linkedin.com/in/rohan-katyayani/)  
 - [GitHub](https://github.com/RohanKatyayani)  
 
 ---
