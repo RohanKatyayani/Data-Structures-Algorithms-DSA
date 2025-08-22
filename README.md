@@ -23,6 +23,11 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Find Largest & Smallest element  
   - ✔️ Reverse an Array  
 
+- **22nd August 2025 (Strings)**  
+  - ✔️ Palindrome Check (Two-Pointer)  
+  - ✔️ Count Vowels & Consonants  
+  - ✔️ Reverse Words in a Sentence
+  
 *(Daily updates will be pushed here 🚀)*  
 
 ---
