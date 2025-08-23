@@ -27,6 +27,11 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Palindrome Check (Two-Pointer)  
   - ✔️ Count Vowels & Consonants  
   - ✔️ Reverse Words in a Sentence
+
+-	**23rd August 2025 (Linked Lists)**
+  - ✔️ Implemented Singly Linked List
+	-	✔️ Insert at Head & Tail
+	-	✔️ Traverse & Print the List
   
 *(Daily updates will be pushed here 🚀)*  
 
