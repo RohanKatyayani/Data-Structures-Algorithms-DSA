@@ -32,8 +32,14 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Implemented Singly Linked List
   - ✔️ Insert at Head & Tail
   - ✔️ Traverse & Print the List
+
+- **26th August 2025 (Linked Lists — Advanced)**
+  -	✔️ Insert at Specific Position
+	-	✔️ Delete by Value & by Position
+	-	✔️ Search in Linked List
+	-	✔️ Reverse Linked List (Iterative & Recursive)
   
-*(Daily updates will be pushed here 🚀)*  
+*(Updates will be pushed here 🚀)*  
 
 ---
 
@@ -45,7 +51,7 @@ Every day, I solve problems across different topics — starting from **Arrays &
 
 ## 🎯 Goal
 - Build strong **DSA problem-solving skills**  
-- Stay **consistent** with daily practice  
+- Stay **consistent** with Weekly practice  
 - Crack **MAANG-level technical interviews**  
 
 ---
