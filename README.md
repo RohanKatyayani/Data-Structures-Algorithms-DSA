@@ -35,9 +35,15 @@ Every day, I solve problems across different topics — starting from **Arrays &
 
 - **26th August 2025 (Linked Lists — Advanced)**
   -	✔️ Insert at Specific Position
-	-	✔️ Delete by Value & by Position
-	-	✔️ Search in Linked List
-	-	✔️ Reverse Linked List (Iterative & Recursive)
+  -	✔️ Delete by Value & by Position
+  -	✔️ Search in Linked List
+  -	✔️ Reverse Linked List (Iterative & Recursive)
+
+- **29th August 2025 (Linked Lists – Advanced)**  
+  - ✔️ Find Middle Element (Tortoise & Hare)  
+  - ✔️ Detect Cycle in Linked List  
+  - ✔️ Find Starting Node of Cycle  
+  - ✔️ Remove Cycle from Linked List
   
 *(Updates will be pushed here 🚀)*  
 
