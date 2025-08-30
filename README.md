@@ -44,6 +44,13 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Detect Cycle in Linked List  
   - ✔️ Find Starting Node of Cycle  
   - ✔️ Remove Cycle from Linked List
+ 
+- **30th August 2025 (Doubly Linked Lists – Basics)**  
+  - ✔️ Insert at Beginning  
+  - ✔️ Insert at End  
+  - ✔️ Delete by Value  
+  - ✔️ Traverse Forward  
+  - ✔️ Traverse Backward
   
 *(Updates will be pushed here 🚀)*  
 
