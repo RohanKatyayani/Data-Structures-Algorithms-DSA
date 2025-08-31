@@ -51,7 +51,13 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Delete by Value  
   - ✔️ Traverse Forward  
   - ✔️ Traverse Backward
-  
+
+- **31st August 2025 (Doubly Linked Lists – Intermediate)**  
+  - ✔️ Delete at Beginning  
+  - ✔️ Delete at End  
+  - ✔️ Insert at Specific Position  
+  - ✔️ Reverse Doubly Linked List
+
 *(Updates will be pushed here 🚀)*  
 
 ---
