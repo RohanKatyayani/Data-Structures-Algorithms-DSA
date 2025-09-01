@@ -58,6 +58,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Insert at Specific Position  
   - ✔️ Reverse Doubly Linked List
 
+- **1st September 2025 (Stacks – Basics)**  
+  - ✔️ Implement Stack using Python List  
+  - ✔️ Implement Stack using Linked List  
+  - ✔️ Reverse a String using Stack  
+  - ✔️ Check for Balanced Parentheses
+
 *(Updates will be pushed here 🚀)*  
 
 ---
