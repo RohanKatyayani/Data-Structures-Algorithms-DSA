@@ -64,6 +64,11 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Reverse a String using Stack  
   - ✔️ Check for Balanced Parentheses
 
+- **2nd September 2025 (Stacks – Applications)**  
+  - ✔️ Next Greater Element  
+  - ✔️ Min Stack (Get Minimum in O(1))  
+  - ✔️ Infix to Postfix Conversion
+
 *(Updates will be pushed here 🚀)*  
 
 ---
