@@ -68,6 +68,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Next Greater Element  
   - ✔️ Min Stack (Get Minimum in O(1))  
   - ✔️ Infix to Postfix Conversion
+ 
+- **3rd September 2025 (Queues – Basics)**  
+  - ✔️ Implement Queue using Python List  
+  - ✔️ Implement Queue using Linked List  
+  - ✔️ Implement Queue using Collections.deque (Pythonic way)  
+  - ✔️ Circular Queue Implementation
 
 *(Updates will be pushed here 🚀)*  
 
