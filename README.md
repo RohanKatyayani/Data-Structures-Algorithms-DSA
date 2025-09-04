@@ -75,6 +75,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Implement Queue using Collections.deque (Pythonic way)  
   - ✔️ Circular Queue Implementation
 
+- **4th September 2025 (Queues – Applications)**  
+  - ✔️ Implement Stack using Queues  
+  - ✔️ Implement Queue using Stacks  
+  - ✔️ Rotten Oranges (BFS with Queue)  
+  - ✔️ Sliding Window Maximum
+
 *(Updates will be pushed here 🚀)*  
 
 ---
