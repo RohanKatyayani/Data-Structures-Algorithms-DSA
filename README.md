@@ -81,6 +81,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Rotten Oranges (BFS with Queue)  
   - ✔️ Sliding Window Maximum
 
+- **5th September 2025 (Recursion – Basics)**  
+  - ✔️ Factorial (Recursive)  
+  - ✔️ Fibonacci (Recursive)  
+  - ✔️ Sum of Array (Recursive)  
+  - ✔️ Print 1 to N and N to 1
+
 *(Updates will be pushed here 🚀)*  
 
 ---
