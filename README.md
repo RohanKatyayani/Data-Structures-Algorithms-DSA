@@ -86,6 +86,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Fibonacci (Recursive)  
   - ✔️ Sum of Array (Recursive)  
   - ✔️ Print 1 to N and N to 1
+ 
+- **6th September 2025 (Trees – Basics)**  
+  - ✔️ Tree and Binary Tree Introduction  
+  - ✔️ Binary Search Tree (BST) basics  
+  - ✔️ Preorder, Inorder, Postorder Traversal  
+  - ✔️ Level Order Traversal
 
 *(Updates will be pushed here 🚀)*  
 
