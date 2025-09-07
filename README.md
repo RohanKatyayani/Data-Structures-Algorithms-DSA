@@ -93,6 +93,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Preorder, Inorder, Postorder Traversal  
   - ✔️ Level Order Traversal
 
+- **7th September 2025 (BST – Operations)**  
+  - ✔️ Find Min & Max in BST  
+  - ✔️ Delete a Node in BST (all 3 cases)  
+  - ✔️ Check if a Tree is a BST  
+  - ✔️ Find Height of a Tree
+
 *(Updates will be pushed here 🚀)*  
 
 ---
