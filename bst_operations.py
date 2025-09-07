@@ -56,7 +56,7 @@ class BST:
 
             # Todo 2.2: Node is a Leaf (no children)
             if node.left is None and node.right is None:
-                return node
+                return none
 
             # Todo 2.3: Node has one child
             if node.left is None:
@@ -113,9 +113,6 @@ if __name__ == "__main__":
     print("Inorder after deleting 50:")
     bst.inorder(bst.root)                             # 20 30 40 60 70 80
 
-    print("\nIs BST?:", bst.is_bst(bst.root))         # False
+    print("\nIs BST?:", bst.is_bst(bst.root))         # True
 
     print("\nHeight of tree:", bst.height(bst.root))  # e.g. 3
-
-
-
