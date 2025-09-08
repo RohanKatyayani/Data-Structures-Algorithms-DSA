@@ -99,6 +99,11 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Check if a Tree is a BST  
   - ✔️ Find Height of a Tree
 
+- **8th September 2025 (BST Advanced - Part 1)**  
+  - ✔️ Lowest Common Ancestor (LCA) in BST  
+  - ✔️ Level Order Traversal using Queue  
+  - ✔️ Left & Right View of Binary Tree  
+
 *(Updates will be pushed here 🚀)*  
 
 ---
