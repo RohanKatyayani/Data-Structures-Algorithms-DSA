@@ -102,7 +102,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
 - **8th September 2025 (BST Advanced - Part 1)**  
   - ✔️ Lowest Common Ancestor (LCA) in BST  
   - ✔️ Level Order Traversal using Queue  
-  - ✔️ Left & Right View of Binary Tree  
+  - ✔️ Left & Right View of Binary Tree
+
+- **8th September 2025 (BST Advanced - Part 2)**  
+  - ✔️ Print all paths from Root to Leaf  
+  - ✔️ Check if two trees are identical  
+  - ✔️ Check if a tree is height balanced  
 
 *(Updates will be pushed here 🚀)*  
 
