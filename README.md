@@ -109,6 +109,11 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Check if two trees are identical  
   - ✔️ Check if a tree is height balanced  
 
+- **16th September 2025 (Binary Tree Advanced)**  
+  - ✔️ Diameter of a Binary Tree  
+  - ✔️ Lowest Common Ancestor in Binary Tree  
+  - ✔️ Count Nodes & Sum of Nodes
+
 *(Updates will be pushed here 🚀)*  
 
 ---
