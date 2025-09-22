@@ -113,6 +113,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Diameter of a Binary Tree  
   - ✔️ Lowest Common Ancestor in Binary Tree  
   - ✔️ Count Nodes & Sum of Nodes
+ 
+- **22nd September 2025 (BST Validation & LCA)**  
+  - ✔️ Validate if a Tree is a BST  
+  - ✔️ Lowest Common Ancestor (LCA) in a BST  
+  - ✔️ Inorder Successor in BST  
+  - ✔️ Inorder Predecessor in BST  
 
 *(Updates will be pushed here 🚀)*  
 
