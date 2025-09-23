@@ -118,7 +118,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Validate if a Tree is a BST  
   - ✔️ Lowest Common Ancestor (LCA) in a BST  
   - ✔️ Inorder Successor in BST  
-  - ✔️ Inorder Predecessor in BST  
+  - ✔️ Inorder Predecessor in BST
+ 
+- **23rd September 2025 (BST Advanced – Part 2)**  
+  - ✔️ Kth Smallest in BST  
+  - ✔️ Kth Largest in BST  
+  - ✔️ Convert Sorted Array to Balanced BST  
 
 *(Updates will be pushed here 🚀)*  
 
