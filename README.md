@@ -123,7 +123,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
 - **23rd September 2025 (BST Advanced – Part 2)**  
   - ✔️ Kth Smallest in BST  
   - ✔️ Kth Largest in BST  
-  - ✔️ Convert Sorted Array to Balanced BST  
+  - ✔️ Convert Sorted Array to Balanced BST
+
+- **24th September 2025 (BST Advanced – Part 3)**  
+  - ✔️ Check if two BSTs are identical  
+  - ✔️ Convert BST to Doubly Linked List  
+  - ✔️ Find Ceiling (lowest value ≥ key) in BST  
 
 *(Updates will be pushed here 🚀)*  
 
