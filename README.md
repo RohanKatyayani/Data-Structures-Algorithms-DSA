@@ -128,7 +128,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
 - **24th September 2025 (BST Advanced – Part 3)**  
   - ✔️ Check if two BSTs are identical  
   - ✔️ Convert BST to Doubly Linked List  
-  - ✔️ Find Ceiling (lowest value ≥ key) in BST  
+  - ✔️ Find Ceiling (lowest value ≥ key) in BST
+
+- **4th October 2025 (Binary Tree Advanced – Part 1)**  
+  - ✔️ Diameter of a Binary Tree  
+  - ✔️ Lowest Common Ancestor (LCA) in a Binary Tree  
+  - ✔️ Check if a Binary Tree is Balanced  
 
 *(Updates will be pushed here 🚀)*  
 
