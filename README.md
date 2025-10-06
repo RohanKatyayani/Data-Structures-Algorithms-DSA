@@ -133,7 +133,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
 - **4th October 2025 (Binary Tree Advanced – Part 1)**  
   - ✔️ Diameter of a Binary Tree  
   - ✔️ Lowest Common Ancestor (LCA) in a Binary Tree  
-  - ✔️ Check if a Binary Tree is Balanced  
+  - ✔️ Check if a Binary Tree is Balanced
+
+- **6th October 2025 (Graphs – Basics)**  
+  - ✔️ Implemented Graph Representation using Adjacency List  
+  - ✔️ Performed Breadth-First Search (BFS) Traversal  
+  - ✔️ Performed Depth-First Search (DFS) Traversal  
 
 *(Updates will be pushed here 🚀)*  
 
