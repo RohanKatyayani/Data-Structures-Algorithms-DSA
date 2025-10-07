@@ -140,6 +140,10 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Performed Breadth-First Search (BFS) Traversal  
   - ✔️ Performed Depth-First Search (DFS) Traversal  
 
+- **7th October 2025 (Graphs – Connected Components & Cycle Detection)**  
+  - ✔️ Counted Connected Components in an Undirected Graph using BFS  
+  - ✔️ Implemented Cycle Detection in an Undirected Graph using DFS  
+
 *(Updates will be pushed here 🚀)*  
 
 ---
