@@ -144,6 +144,10 @@ Every day, I solve problems across different topics — starting from **Arrays &
   - ✔️ Counted Connected Components in an Undirected Graph using BFS  
   - ✔️ Implemented Cycle Detection in an Undirected Graph using DFS  
 
+- **8th October 2025 (Graphs – Directed Graphs & Cycle Detection)**  
+  - ✔️ Implemented Directed Graph Representation  
+  - ✔️ Performed Cycle Detection using DFS and Recursion Stack  
+
 *(Updates will be pushed here 🚀)*  
 
 ---
