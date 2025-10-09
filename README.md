@@ -146,7 +146,11 @@ Every day, I solve problems across different topics — starting from **Arrays &
 
 - **8th October 2025 (Graphs – Directed Graphs & Cycle Detection)**  
   - ✔️ Implemented Directed Graph Representation  
-  - ✔️ Performed Cycle Detection using DFS and Recursion Stack  
+  - ✔️ Performed Cycle Detection using DFS and Recursion Stack
+
+- **9th October 2025 (Graphs – Topological Sorting)**  
+  - ✔️ Implemented Topological Sorting using Kahn’s Algorithm (BFS)  
+  - ✔️ Detected Cycles in Directed Graphs using In-Degree Logic  
 
 *(Updates will be pushed here 🚀)*  
 
