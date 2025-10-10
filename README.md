@@ -150,7 +150,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
 
 - **9th October 2025 (Graphs – Topological Sorting)**  
   - ✔️ Implemented Topological Sorting using Kahn’s Algorithm (BFS)  
-  - ✔️ Detected Cycles in Directed Graphs using In-Degree Logic  
+  - ✔️ Detected Cycles in Directed Graphs using In-Degree Logic
+
+- **10th October 2025 (Graphs – Shortest Path Algorithms)**  
+  - ✔️ Implemented Shortest Path in Unweighted Graphs using BFS  
+  - ✔️ Implemented Dijkstra’s Algorithm for Weighted Graphs  
+  - ✔️ Fixed KeyError bug by tracking all unique nodes in the graph  
 
 *(Updates will be pushed here 🚀)*  
 
