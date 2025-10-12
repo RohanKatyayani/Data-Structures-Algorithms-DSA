@@ -155,7 +155,12 @@ Every day, I solve problems across different topics — starting from **Arrays &
 - **10th October 2025 (Graphs – Shortest Path Algorithms)**  
   - ✔️ Implemented Shortest Path in Unweighted Graphs using BFS  
   - ✔️ Implemented Dijkstra’s Algorithm for Weighted Graphs  
-  - ✔️ Fixed KeyError bug by tracking all unique nodes in the graph  
+  - ✔️ Fixed KeyError bug by tracking all unique nodes in the graph
+
+- **12th October 2025 (Graphs – Shortest Path Advanced)**  
+  - ✔️ Implemented Path Reconstruction in Dijkstra’s Algorithm  
+  - ✔️ Implemented Bellman-Ford Algorithm (Handles Negative Weights)  
+  - ✔️ Compared BFS, Dijkstra, and Bellman-Ford Approaches  
 
 *(Updates will be pushed here 🚀)*  
 
