@@ -160,7 +160,10 @@ Every day, I solve problems across different topics — starting from **Arrays &
 - **12th October 2025 (Graphs – Shortest Path Advanced)**  
   - ✔️ Implemented Path Reconstruction in Dijkstra’s Algorithm  
   - ✔️ Implemented Bellman-Ford Algorithm (Handles Negative Weights)  
-  - ✔️ Compared BFS, Dijkstra, and Bellman-Ford Approaches  
+  - ✔️ Compared BFS, Dijkstra, and Bellman-Ford Approaches
+
+- **31st October 2025 (Greedy – Activity Selection)**  
+  - ✔️ Implemented Activity Selection (greedy by finish time)
 
 *(Updates will be pushed here 🚀)*  
 
