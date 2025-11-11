@@ -165,6 +165,11 @@ Every day, I solve problems across different topics — starting from **Arrays &
 - **31st October 2025 (Greedy – Activity Selection)**  
   - ✔️ Implemented Activity Selection (greedy by finish time)
 
+- **11th November 2025 (Greedy – Fractional Knapsack)**  
+  - ✔️ Implemented Fractional Knapsack using Greedy Approach  
+  - ✔️ Sorted items by value-to-weight ratio  
+  - ✔️ Calculated total maximum achievable value  
+
 *(Updates will be pushed here 🚀)*  
 
 ---
