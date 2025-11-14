@@ -168,7 +168,11 @@ Every day, I solve problems across different topics — starting from **Arrays &
 - **11th November 2025 (Greedy – Fractional Knapsack)**  
   - ✔️ Implemented Fractional Knapsack using Greedy Approach  
   - ✔️ Sorted items by value-to-weight ratio  
-  - ✔️ Calculated total maximum achievable value  
+  - ✔️ Calculated total maximum achievable value
+
+- **14th November 2025 (Dynamic Programming – Knapsack Continued)**  
+  - ✔️ Added reconstruction logic to identify which items were chosen  
+  - ✔️ Improved knapsack solution beyond just max value  
 
 *(Updates will be pushed here 🚀)*  
 
